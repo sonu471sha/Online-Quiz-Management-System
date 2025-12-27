@@ -1,4 +1,4 @@
-# Online-Quiz-System
+# Online-Quiz-Management-System
 
 This system is made using c# and .net framework.
 It is a very advanced system with all the necessary features.
